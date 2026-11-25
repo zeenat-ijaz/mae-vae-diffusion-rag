@@ -1,0 +1,11 @@
+{
+ "diffusion_images": 40,
+ "member1_correct": 26,
+ "member2_correct": 1,
+ "both_agreed": 3,
+ "rag_items": 20,
+ "supported_member1": 15,
+ "supported_member2": 15,
+ "correct_member1": 13,
+ "correct_member2": 10
+}

@@ -1,0 +1,6 @@
+EuroSAT train (16200, 3, 64, 64) test (5400, 3, 64, 64)
+few-label subset: 160 images; patches per image: (8, 64, 192)
+UHaT train (28328, 1, 28, 28) test (4747, 1, 28, 28) classes: 40
+class names: ['alif', 'alif mad aa', 'ayn', 'baa', 'bari yaa', 'cheey', 'choti yaa', 'daal', 'dhaal', 'faa', 'gaaf', 'ghain', 'haa1', 'haa2', 'haa3', 'hamza', 'jeem', 'kaaf', 'khaa', 'laam', 'meem', 'noon', 'noonghunna', 'paa', 'qaaf', 'raa', 'rhraa', 'seen', 'seey', 'sheen', 'swaad', 'taa', 'ttaa', 'twa', 'waw', 'zaaa', 'zaal', 'zhaa', 'zwaa', 'zwaad']
+BioASQ corpus: 40181 abstracts; test questions: 707
+example: Is capmatinib effective for glioblastoma? | relevant ids: [31776899]

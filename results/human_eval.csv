@@ -1,0 +1,62 @@
+kind,item,text,member1_answer,member2_answer,member1_supported,member2_supported,member1_correct,member2_correct
+diffusion,1,,cheey,ayn,,,,
+diffusion,2,,zaaa,raa,,,,
+diffusion,3,,haa1,zaaa,,,,
+diffusion,4,,laam,alif,,,,
+diffusion,5,,hamza,faa,,,,
+diffusion,6,,gaaf,zhaa,,,,
+diffusion,7,,swaad,meem,,,,
+diffusion,8,,noon,waw,,,,
+diffusion,9,,dhaal,baa,,,,
+diffusion,10,,ghain,qaaf,,,,
+diffusion,11,,seen,laam,,,,
+diffusion,12,,alif,alif,,,,
+diffusion,13,,taa,noon,,,,
+diffusion,14,,haa2,ayn,,,,
+diffusion,15,,zaal,sheen,,,,
+diffusion,16,,haa3,gaaf,,,,
+diffusion,17,,noonghunna,cheey,,,,
+diffusion,18,,seey,daal,,,,
+diffusion,19,,seen,haa,,,,
+diffusion,20,,faa,paa,,,,
+diffusion,21,,noonghunna,noon,,,,
+diffusion,22,,ttaa,alif,,,,
+diffusion,23,,daal,raa,,,,
+diffusion,24,,zaaa,zaaa,,,,
+diffusion,25,,zhaa,faa,,,,
+diffusion,26,,waw,jeem,,,,
+diffusion,27,,ayn,baa,,,,
+diffusion,28,,alif mad aa,taa,,,,
+diffusion,29,,twa,noon,,,,
+diffusion,30,,jeem,zaaa,,,,
+diffusion,31,,sheen,ayn,,,,
+diffusion,32,,zwaa,ttaa,,,,
+diffusion,33,,paa,twa,,,,
+diffusion,34,,raa,raa,,,,
+diffusion,35,,waw,zhaa,,,,
+diffusion,36,,noon,gaaf,,,,
+diffusion,37,,baa,noon,,,,
+diffusion,38,,raa,alif,,,,
+diffusion,39,,faa,meem,,,,
+diffusion,40,,taa,hamza,,,,
+rag,5,Is tubulin acetylation involved in cell motility?,,,yes,yes,yes,yes
+rag,12,What is the function of the AtxA pleiotropic regulator?,,,yes,yes,yes,no
+rag,17,Describe a cytokine release syndrome.,,,yes,yes,yes,no
+rag,27,Is armodafinil used for treatment of insomnia?,,,no,no,no,no
+rag,32,Against which organisms has reverse vaccinology been used?,,,yes,yes,yes,no
+rag,33,Is lambrolizumab effective for treatment of patients with melanoma ?,,,yes,yes,yes,yes
+rag,36,Can fetal aneuploidy be detected with non-invasive prenatal testing?,,,yes,yes,yes,yes
+rag,38,Describe Full Spectrum of Intolerance to Loss-of-function (FUSIL),,,yes,yes,no,no
+rag,45,Which CDK targets control cytokinesis?,,,yes,yes,no,no
+rag,49,Does armodafinil improve fatigue of glioma patients?,,,yes,yes,yes,yes
+rag,51,Are Alu elements transcribed?,,,no,no,yes,yes
+rag,53,What are the hallmarks of congestive heart failure?,,,yes,yes,yes,yes
+rag,61,Which test is used to diagnose colour synesthesia?,,,no,no,no,no
+rag,62,"Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)
+cause sudden cardiac death?",,,yes,yes,yes,yes
+rag,64,What is the mode of administration of AZD8601?,,,yes,yes,no,no
+rag,65,What is the role of TAD protein domain?,,,no,no,yes,yes
+rag,74,Is the abnormal dosage of ultraconserved elements disfavored in cancer cells?,,,yes,yes,no,no
+rag,79,Why are male calico cats rare?,,,yes,yes,yes,yes
+rag,96,Do raspberries improve postprandial glucose and acute and chronic inflammation in adults with type 2 Diabetes?,,,yes,yes,yes,yes
+rag,97,Name one CCR4 targeted drug.,,,no,no,no,no
