@@ -82,6 +82,10 @@ App:
 python app/app.py
 ```
 
+## Links
+
+Blog: https://medium.com/@f230054/four-ways-to-generate-a-masked-autoencoder-a-vae-a-diffusion-model-and-a-rag-system-all-built-6e23df3415b1
+
 ## Results
 
 The tables are in `results/tables.md`, the figures are the `fig_*.png` files in `results/`, the output of Task 0 and its two example grids are in `results/task0_output.txt`, `results/eurosat_examples.png` and `results/uhat_examples.png`, the written answers are in `results/analysis.md`, and the RAG examples are in `results/samples.md`.
