@@ -1,0 +1,137 @@
+[
+ {
+  "index": 0,
+  "question": "Is capmatinib effective for glioblastoma?",
+  "reference_answer": "No. Combination of capmatinib buparlisib resulted in no clear activity in patients with recurrent PTEN-deficient glioblastoma.",
+  "relevant_id": 31776899,
+  "relevant_text": "Conflict of interest statement: In relation to this presentation, we declare the \nfollowing, real or perceived conflicts of interest: M. van den Bent has received \ngrants from Abbvie, and honoraria from Cellgene, BMS, Boehringer, AGIOS and \nVaXIMM. A. Azaro has received consulting fees from Orion Pharmaceuticals and \nAmcure GmbH. F. De Vos has received financial support for conducting clinical \ntr",
+  "top1_id": 18366283,
+  "top1_text": "High-grade glioma is a devastating disease that leaves the majority of its \nvictims dead within 2 years. To meaningfully increase survival, a trimodality \napproach of surgery, radiation, and chemotherapy is needed. Carmustine (1,3-bis \n(2-chloroethyl)-1-nitrosourea) is a nitrosourea alkylating agent that exerts its \nantitumor effect by akylating DNA and RNA. Systemic administration of \nnitrosourea"
+ },
+ {
+  "index": 4,
+  "question": "What is F105-P?",
+  "reference_answer": "F105-P is a protamine-antibody fusion protein designed to deliver siRNA to HIV-infected or envelope-transfected cells. In specific, it was designed with the protamine coding sequence linked to the C terminus of the heavy chain Fab fragment of an HIV-1 envelope antibody.",
+  "relevant_id": 15908939,
+  "relevant_text": "Delivery of small interfering RNAs (siRNAs) into cells is a key obstacle to \ntheir therapeutic application. We designed a protamine-antibody fusion protein \nto deliver siRNA to HIV-infected or envelope-transfected cells. The fusion \nprotein (F105-P) was designed with the protamine coding sequence linked to the C \nterminus of the heavy chain Fab fragment of an HIV-1 envelope antibody. siRNAs \nbound",
+  "top1_id": 26058333,
+  "top1_text": "Fibrodysplasia Ossificans Progressiva (FOP) is a rare debilitating disorder \ncharacterized by congenital deformity of the great toes from infancy and \npostnatal heterotopic ossification. Activating mutations in the activin A \nreceptor type 1 (ACVR1) gene are responsible for the disease. The most common \nallelic variant leading to FOP is c.617 G>A; p.R206H, however, other alleles \nhave been reporte"
+ },
+ {
+  "index": 22,
+  "question": "Which main viral protein is targeted by the drug remdesivir?",
+  "reference_answer": "Viral Susceptibility to the Antiviral Remdesivir (GS-5734) Is Mediated by the Viral Polymerase and the Proofreading Exoribonuclease.",
+  "relevant_id": 30275474,
+  "relevant_text": "Despite several clinical trials implemented, no antiviral drug could demonstrate \nefficacy against Ebola virus. In non-human primates, early initiation of \npolymerase inhibitors favipiravir and remdesivir improves survival, but whether \nthey could be effective in patients is unknown. Here we analyze the impact of \nantiviral therapy by using a mathematical model that integrates virological and \nimm",
+  "top1_id": 34497279,
+  "top1_text": "Transporters in the human liver play a major role in the clearance of endo- and \nxenobiotics. Apical (canalicular) transporters extrude compounds to the bile, \nwhile basolateral hepatocyte transporters promote the uptake of, or expel, \nvarious compounds from/into the venous blood stream. In the present work we have \nexamined the in vitro interactions of some key repurposed drugs advocated to \ntrea"
+ },
+ {
+  "index": 38,
+  "question": "Describe Full Spectrum of Intolerance to Loss-of-function (FUSIL)",
+  "reference_answer": "Full Spectrum of Intolerance to Loss-of-function (FUSIL) is a cross-species gene classification across the full spectrum of mutations in genes of unknown function. FUSIL has been proposed as a method to identify potentially pathogenic variants in genes not previously associated with rare diseases.",
+  "relevant_id": 32005800,
+  "relevant_text": "Author information:\n(1)Clinical Pharmacology, William Harvey Research Institute, School of Medicine \nand Dentistry, Queen Mary University of London, London, EC1M 6BQ, UK.\n(2)European Molecular Biology Laboratory, European Bioinformatics Institute \n(EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SD, UK.\n(3)The Jackson Laboratory, Bar Harbor, ME, 4609, USA.\n(4)Departments of Molecular ",
+  "top1_id": 19822515,
+  "top1_text": "5-Fluorouracil (5-FU) is an antimetabolite that acts during the S phase of the \ncell cycle. The active metabolite, 5-fluorodeoxyuridine monophosphate inhibits \nthymidylate synthase (TS), thus preventing DNA synthesis, which leads to \nimbalanced cell growth and ultimately cell death. 5-FU and its oral prodrug \ncapecitabine are used in the treatment of a number of solid tumors, including \ncolorectal"
+ },
+ {
+  "index": 43,
+  "question": "Is there any role of genotoxic pks + E. coli in cancer?",
+  "reference_answer": "Yes. Genotoxic pks and E. Coli are known to cause mutations in the DNA of cells, which can lead to cancer.",
+  "relevant_id": 32106218,
+  "relevant_text": "Author information:\n(1)Hubrecht Institute, Royal Netherlands Academy of Arts and Sciences (KNAW) and \nUMC Utrecht, Utrecht, The Netherlands.\n(2)Oncode Institute, Utrecht, The Netherlands.\n(3)The Princess M\u00e1xima Center for Pediatric Oncology, Utrecht, The Netherlands.\n(4)Center for Molecular Medicine, University Medical Centre Utrecht, Utrecht, \nThe Netherlands.\n(5)Pathology and Data Analytics, Lee",
+  "top1_id": 11075932,
+  "top1_text": "Eukaryotic cells contain a large number of protein Ser/ Thr kinases, which play \nimportant roles in signal transduction required for cell proliferation, \ndifferentiation, and stress response and adaptation. It is also known that some \nprokaryotes contain a family of protein Ser/Thr kinases. A major challenge in \nthe characterization of these kinases is how to identify their specific \nsubstrates. H"
+ },
+ {
+  "index": 50,
+  "question": "Is there any role of interleukin-11 in cardiovascular fibrosis?",
+  "reference_answer": "Yes. Interleukin 11 (IL11) upregulation is the dominant transcriptional response to TGFB1 exposure and required for its profibrotic effect. IL11 and its receptor (IL11RA) are expressed specifically in fibroblasts where they drive non-canonical, ERK-dependent autocrine signalling that is required for fibrogenic protein synthesis. In mice, fibroblast-specific Il11 transgene expression or Il11 injection causes heart and kidney fibrosis and organ failure whereas genetic deletion of Il11ra1 is protective against disease. Thus, inhibition of IL11 prevents fibroblast activation across organs and species in response to a range of important pro-fibrotic stimuli.",
+  "relevant_id": 29160304,
+  "relevant_text": "Author information:\n(1)National Heart Centre Singapore, Singapore.\n(2)Duke-National University of Singapore Medical School, Singapore.\n(3)Department of Genetics, Harvard Medical School, Boston, Massachusetts 02115, \nUSA.\n(4)Cardiovascular and Metabolic Sciences, Max Delbr\u00fcck Center for Molecular \nMedicine in the Helmholtz Association (MDC), Robert-Rossle Strasse 10, 13125 \nBerlin, Germany.\n(5)Infl",
+  "top1_id": 7774871,
+  "top1_text": "The cardiac cytoskeleton and the extracellular matrix play an essential role for \nmaintaining cellular integrity and function of the myocardium. The network of \nmicrotubules and intermediate filaments are disrupted by the inflammatory \nreaction which depends on resident cells (myocytes, fibroblasts, endothel cells) \nand on systemic cells (granulocytes, macrophages, monocytes, lymphocytes). \nChange"
+ },
+ {
+  "index": 59,
+  "question": "Does erenumab target the calcitonin gene-related peptide?",
+  "reference_answer": "No, erenumab targets the calcitonin gene-related peptide receptor.",
+  "relevant_id": 30651064,
+  "relevant_text": "BACKGROUND AND AIM: Monoclonal antibodies acting on the calcitonin gene-related \npeptide or on its receptor are new drugs to prevent migraine. Four monoclonal \nantibodies have been developed: one targeting the calcitonin gene-related \npeptide receptor (erenumab) and three targeting the calcitonin gene-related \npeptide (eptinezumab, fremanezumab, and galcanezumab). The aim of this document \nby the ",
+  "top1_id": 29697153,
+  "top1_text": "The neuropeptide calcitonin gene-related peptide is well established as a key \nplayer in the pathogenesis of migraine. Clinical studies show calcitonin \ngene-related peptide levels correlate with migraine attacks, and decreases in \nthis neuropeptide can indicate antimigraine therapy effectiveness. Research has \nrevealed a wide distribution of expression sites for calcitonin gene-related \npeptide i"
+ },
+ {
+  "index": 64,
+  "question": "What is the mode of administration of AZD8601?",
+  "reference_answer": "AZD8601 is administered intradermally.",
+  "relevant_id": 32438492,
+  "relevant_text": "Author information:\n(1)Drug Metabolism and Pharmacokinetics, Research and Early Development, \nCardiovascular, Renal and Metabolism, BioPharmaceuticals R&D, AstraZeneca, \nGothenburg, Sweden.\n(2)Fraunhofer-Chalmers Centre, Chalmers Science Park, Gothenburg, Sweden.\n(3)Clinical Pharmacology and Quantitative Pharmacology, Clinical Pharmacology \nand Safety Sciences, BioPharmaceuticals R&D, AstraZeneca,",
+  "top1_id": 20356359,
+  "top1_text": "BACKGROUND: Injury severity measures are based either on the Abbreviated Injury \nScale (AIS) or the International Classification of diseases (ICD). The latter is \nmore convenient because routinely collected by clinicians for administrative \nreasons. To exploit this advantage, a proprietary program that maps ICD-9-CM \ninto AIS codes has been used for many years. Recently, a program called ICDPIC \nt"
+ },
+ {
+  "index": 74,
+  "question": "Is the abnormal dosage of ultraconserved elements disfavored in cancer cells?",
+  "reference_answer": "No. Abnormal dosage of ultraconserved elements is highly disfavored in healthy cells but not cancer cells.",
+  "relevant_id": 25340765,
+  "relevant_text": "Ultraconserved elements (UCEs) are strongly depleted from segmental duplications \nand copy number variations (CNVs) in the human genome, suggesting that deletion \nor duplication of a UCE can be deleterious to the mammalian cell. Here we \naddress the process by which CNVs become depleted of UCEs. We begin by showing \nthat depletion for UCEs characterizes the most recent large-scale human CNV \ndatas",
+  "top1_id": 26653737,
+  "top1_text": "Nowadays it has been established that metals and metal-induced oxidative stress \nact on signal transduction pathways, and are in association with cancer growth \nand spreading as well as in neurodegenerative disorders. In cases of several \nneurodegenerative diseases metals, especially Al, can be considered as a risk \nfactor. Frequency of chemotherapy-related cognitive impairment or \"chemobrain\" \nis"
+ },
+ {
+  "index": 77,
+  "question": "Is AZD9668 a VEGF mRNA drug?",
+  "reference_answer": "AZD9668 is a reversible and selective inhibitor of neutrophil elastase.",
+  "relevant_id": 22197578,
+  "relevant_text": "BACKGROUND: Neutrophil elastase (NE) is implicated in chronic obstructive \npulmonary disease (COPD). AZD9668 is a reversible and selective inhibitor of NE, \nwell tolerated at doses of 60 mg bid during Phase I/IIa development.\nMETHODS: This 12-week, randomised, double-blind, placebo-controlled, Phase IIb, \ntrial (NCT01023516), investigated the efficacy and safety of AZD9668 (60 mg bid) \nversus plac",
+  "top1_id": 32728595,
+  "top1_text": "Therapeutic angiogenesis may improve outcomes in patients with coronary artery \ndisease undergoing surgical revascularization. Angiogenic factors may promote \nblood vessel growth and regenerate regions of ischemic but viable myocardium. \nPrevious clinical trials of vascular endothelial growth factor A (VEGF-A) gene \ntherapy with DNA or viral vectors demonstrated safety but not efficacy. AZD8601 \ni"
+ },
+ {
+  "index": 82,
+  "question": "Which extra thyroid tissues have thyrotropin (TSH) receptors?",
+  "reference_answer": "TSH receptors are expressed also in extrathyroid tissues. TSH receptors seem to be functional. Extrathyroid tissues include fibrobasts of the orbit and adipose tissue\nThe principal tissues with TSH receptors are:\nadippose tissue\n orbital fibrotic tissue",
+  "relevant_id": 21956421,
+  "relevant_text": "CONTEXT: Graves' disease (GD) is a systemic autoimmune syndrome comprising \nmanifestations in thyroid and orbital connective tissue. The link between these \ntwo tissues in GD eludes our understanding. Patients with GD have increased \nfrequency of circulating monocyte lineage cells known as fibrocytes. These \nfibrocytes infiltrate orbital connective tissues in thyroid-associated \nophthalmopathy and",
+  "top1_id": 8594618,
+  "top1_text": "Thyroid hormones (T3, T4) exert multiple cellular effects through nuclear \nthyroid hormone receptors (TR alpha, TR beta). Thyroid hormone receptors are \ntranscription factors that act by altering patterns of gene expression. \nResistance to thyroid hormone (RTH) is a rare disorder caused by mutations in \nthe TR beta gene. Biochemically, the syndrome is defined by elevated circulating \nlevels of fre"
+ },
+ {
+  "index": 93,
+  "question": "Which are the genes thought to be regulated by EWS/FLI?",
+  "reference_answer": "The EWS/FLI translocation product is the causative oncogene in Ewing sarcoma and acts as an aberrant transcription factor. EWS/FLI dysregulates gene expression during tumorigenesis by abnormally activating or repressing genes. The expression levels of a significant number of genes are affected in Ewing sarcoma, some of which are known to be directly or indirectly regulated by EWS/FLI. Such genes are BCL11B, NRoB1, GSTM4, NKX2.2 and p53.",
+  "relevant_id": 17114343,
+  "relevant_text": "A number of solid tumors, such as alveolar rhabdomyosarcoma, synovial sarcoma, \nand myxoid liposarcoma, are associated with recurrent translocation events that \nencode fusion proteins. Ewing's sarcoma is a pediatric tumor that serves as a \nprototype for this tumor class. Ewing's sarcomas usually harbor the \n(11;22)(q24;q12) translocation. The t(11;22) encodes the EWS/FLI fusion \noncoprotein. EWS/F",
+  "top1_id": 23894528,
+  "top1_text": "Fusion of the EWS gene to FLI1 produces a fusion oncoprotein that drives an \naberrant gene expression program responsible for the development of Ewing \nsarcoma. We used a homogenous proximity assay to screen for compounds that \ndisrupt the binding of EWS-FLI1 to its cognate DNA targets. A number of \nDNA-binding chemotherapeutic agents were found to non-specifically disrupt \nprotein binding to DNA."
+ },
+ {
+  "index": 94,
+  "question": "List types of mutations.",
+  "reference_answer": "point mutations\ndeletions\ninsertions\ninversions\ntranslocations",
+  "relevant_id": 29115104,
+  "relevant_text": "Alpha-thalassemia (\u03b1-thal) is probably the most prevalent monogenic condition in \nthe world. Deletions are the most common types of mutations in \u03b1-thal, followed \nby point mutations and small insertion/deletion. In the context of national \nscreening program for prevention of thalassemia and hemoglobinopathies in Iran, \n\u03b1-thal carriers have come to more attention. Therefore, the frequency and \ndist",
+  "top1_id": 28241736,
+  "top1_text": "BACKGROUND: Deriving valid variant calling results from raw next-generation \nsequencing data is a particularly challenging task, especially with respect to \nclinical diagnostics and personalized medicine. However, when using classic \nvariant calling software, the user usually obtains nothing more than a list of \nvariants that pass the corresponding caller's internal filters. Any expected \nmutation"
+ },
+ {
+  "index": 97,
+  "question": "Name one CCR4 targeted drug.",
+  "reference_answer": "Mogamulizumab is an anti-CCR4 monoclonal antibody.",
+  "relevant_id": 29414279,
+  "relevant_text": "BACKGROUND: Human T-lymphotropic virus type 1 (HTLV-1) causes the debilitating \nneuroinflammatory disease HTLV-1-associated myelopathy-tropical spastic \nparaparesis (HAM-TSP) as well as adult T-cell leukemia-lymphoma (ATLL). In \npatients with HAM-TSP, HTLV-1 infects mainly CCR4+ T cells and induces \nfunctional changes, ultimately causing chronic spinal cord inflammation. We \nevaluated mogamulizuma",
+  "top1_id": 29425816,
+  "top1_text": "The healthcare system faces various challenges in human immunodeficiency virus \n(HIV) therapy due to resistance to Anti-Retroviral Therapy (ART) as a \nconsequence of the evolutionary process. Despite the success of antiretroviral \ndrugs like Zidovudine, Zalcitabine, Raltegravir WHO ranks HIV as one of the \ndeadliest diseases with a mortality of one million lives in 2016. Thus, there \nemerges an ur"
+ },
+ {
+  "index": 110,
+  "question": "Which syndrome is associated with mutant DVL1?",
+  "reference_answer": "Mutations in DVL1 cause an osteosclerotic form of Robinow syndrome.",
+  "relevant_id": 25817016,
+  "relevant_text": "Author information:\n(1)Department of Molecular and Human Genetics, Baylor College of Medicine, \nHouston, TX 77030, USA.\n(2)Programa de P\u00f3s-gradua\u00e7\u00e3o em Ci\u00eancias Gen\u00f4micas e Biotecnologia, Universidade \nCat\u00f3lica de Bras\u00edlia, Bras\u00edlia, DF 70790-160, Brazil; Robinow Syndrome \nFoundation, Anoka, MN 55303, USA.\n(3)Department of Human Genetics, Radboud Institute for Molecular Life Sciences, \nRadboud Uni",
+  "top1_id": 23836490,
+  "top1_text": "BACKGROUND: Neural tube defects (NTDs) are severe malformations that arise when \nthe neural tube fails to close during embryogenesis. The planar cell polarity \npathway is involved in neural tube closure and has been implicated in the \npathogenesis of NTDs both in animal models and human cohorts. Dishevelled \n(Dvl/Dsh) is a multi-module protein and a key regulator of both the canonical \nWnt and the"
+ }
+]

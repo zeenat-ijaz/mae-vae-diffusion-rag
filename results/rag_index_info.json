@@ -1,0 +1,8 @@
+{
+ "abstracts": 40181,
+ "chunks": 79332,
+ "test_questions": 707,
+ "mean_relevant": 8.663366336633663,
+ "embedding_seconds": 202.88230156898499,
+ "gpu": "Tesla T4"
+}
